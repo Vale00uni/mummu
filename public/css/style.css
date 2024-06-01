@@ -1,0 +1,34 @@
+a.active,
+a.current {
+    text-decoration: underline;
+}
+
+body{
+    background-color: #E7EEB6;
+}
+
+.main-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 74px;
+}
+
+.logo-esteso{
+    width: 281px;
+    margin-bottom: 10px;
+}
+
+.main-menu{
+    width: 625px;
+}
+
+.header-menu-text{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    margin-right: 30px;
+    color: #211F54;
+    text-decoration: none;
+}
